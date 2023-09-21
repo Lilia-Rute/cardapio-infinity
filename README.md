@@ -1,2 +1,2 @@
-# cardapio-infinity
-Projeto de um cardápio.
+Projeto Infinity School 
+Projeto de um cardápio simples.
